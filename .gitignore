@@ -1,0 +1,7 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore cache and backups
+wp-content/cache/
+*.zip
